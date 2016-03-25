@@ -6,7 +6,7 @@ sudo apt-get install vim-gtk
 
 1) clone
 `````
-git clone git@github.com:rivanenko/vim.git ~/.vim
+git clone git@github.com:rivanenko/gvim.git ~/.vim
 `````
 2) create symlink
 ````````````
